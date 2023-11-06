@@ -1,16 +1,26 @@
-### Hi there 👋
-
-<!--
-**costadonifabricio/costadonifabricio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const SobreMI = {
+  nombre: "Fabricio",
+  profesion: "Estudiante en desarrollo de software multiplataforma",
+  pasion: "Crear aplicaciones web dinámicas y escalables",
+  conocimientos: [
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "MongoDB",
+    "PostgreSQL",
+    "MySQL",
+    "React",
+    "Node.js",
+    "Express.js",
+    "API RESTful",
+    "MERN",
+  ],
+  contacto: {
+    email: "fabriciocostadoni@gmail.com",
+    Instagram: "@fabricostadoni",
+    linkedin: "https://www.linkedin.com/in/fabricio-nahuel-costadoni-94159a186/",
+  },
+  proyectos: {
+    github: "https://github.com/costadonifabricio/costadonifabricio",
+  },
+};

@@ -22,15 +22,8 @@ Me especializo en diversas tecnologías y herramientas, incluyendo:
     API RESTful
     MERN Stack
 
-Contacto
-¡Hablemos! Puedes contactarme a través de:
-
-    Email: fabriciocostadoni@gmail.com
-    Instagram: @fabricostadoni
-    LinkedIn: Fabricio Nahuel Costadoni
-
 Proyectos
 
-Echa un vistazo a algunos de mis proyectos en mi perfil de GitHub: costadonifabricio. Estoy constantemente trabajando en nuevas ideas y contribuyendo a la comunidad de código abierto.
+Echa un vistazo a algunos de mis proyectos en mi perfil de GitHub: costadonifabricio. Estoy constantemente trabajando en nuevas ideas .
 
-¡Gracias por visitar mi perfil! Estoy emocionado por lo que el futuro del desarrollo de software tiene para ofrecer, y siempre estoy dispuesto a colaborar en emocionantes proyectos y desafíos.
+¡Gracias por visitar mi perfil!.

@@ -2,7 +2,7 @@ Sobre Mí
 
 ¡Hola! 👋 Soy Fabricio, un apasionado estudiante en desarrollo de software multiplataforma. Me encanta explorar el mundo del desarrollo y crear aplicaciones web dinámicas y escalables. Con un conjunto diverso de habilidades tecnológicas y una mente creativa, estoy siempre buscando nuevos desafíos para mejorar mis conocimientos y habilidades.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costadonifabricio&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=costadonifabricio&layout=compact&theme=dark)
 
 <h4 align="center">💻 Programming languages (and html)</h4>
 
